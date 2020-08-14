@@ -10,3 +10,5 @@ https://www.on-fix.com/2020/02/raspbian-k-type-thermocouple-max6675.html
 https://www.rototron.info/raspberry-pi-stepper-motor-tutorial/
 
 
+https://iotdesignpro.com/projects/raspberry-pi-stepper-motor-control-through-a-webpage-using-flask
+
