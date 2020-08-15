@@ -12,3 +12,7 @@ https://www.rototron.info/raspberry-pi-stepper-motor-tutorial/
 
 https://iotdesignpro.com/projects/raspberry-pi-stepper-motor-control-through-a-webpage-using-flask
 
+
+
+
+Chihai CHIHAI CH-SM1545-M3xP0.5 Permanent Magnet Stepper Linear Motor 2-phase 4-wire Miniature Motor
