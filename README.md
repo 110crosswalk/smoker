@@ -17,3 +17,4 @@ https://iotdesignpro.com/projects/raspberry-pi-stepper-motor-control-through-a-w
 
 Chihai CHIHAI CH-SM1545-M3xP0.5 Permanent Magnet Stepper Linear Motor 2-phase 4-wire Miniature Motor
 https://images.app.goo.gl/Vg8QQSWS6ExDfaDVA
+https://reprap.org/wiki/Pololu_stepper_driver_board
