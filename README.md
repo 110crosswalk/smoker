@@ -21,6 +21,7 @@ https://reprap.org/wiki/Pololu_stepper_driver_board
 
 
 sudo apt-get install libhdf5-103
+sudo apt-get install libatlas-base-dev
 
 pip3 install -U numpy
 pip3 install simpletable
